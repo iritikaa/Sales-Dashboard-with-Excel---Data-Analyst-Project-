@@ -17,9 +17,9 @@ Explore profitability by product category
 3. Dive into the Data folder to access the raw dataset.
 
 # Project Overview:
-  Objective: To transform raw sales data into actionable insights.
-  Tools Used: Microsoft Excel
-  Skills Demonstrated: Data analysis, visualization, dashboard design.
+ 1. Objective: To transform raw sales data into actionable insights.
+ 2. Tools Used: Microsoft Excel
+ 3. Skills Demonstrated: Data analysis, visualization, dashboard design.
 
 
 # Tags:
